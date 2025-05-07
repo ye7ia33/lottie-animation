@@ -30,7 +30,7 @@ Lottie Animation Viewer is a user-friendly tool that allows you to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lottie-animation-viewer.git
+   git clone https://github.com/ye7ia33/lottie-animation.git
    cd lottie-animation-viewer
    ```
 
